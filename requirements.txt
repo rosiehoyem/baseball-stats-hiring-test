@@ -1,5 +1,4 @@
---index-url https://pypi.python.org/simple/
-
--e .
-py==1.4.32
+numpy==1.11.2
+pandas==0.19.1
 pytest==3.0.6
+setuptools==35.0.1
