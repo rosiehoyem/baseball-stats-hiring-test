@@ -1,3 +1,13 @@
+# Baseball Stats Script
+
+## Overview
+A simple python script designed to calculate AVG, OBP, SLG, and OPS from a CSV of raw player data.
+
+## Instructions for Use
+1. Navigate into top level folder and run script via `python run.py`
+2. Output results can be found at `data/processed/output.csv`
+3. Results are sorted by SubjectId, Stat, Split, and Subject.
+
 ## Terminology
 1. **Subject**: A field that is grouped on; analogous to SQL's "GROUP BY"  
 clause.  
